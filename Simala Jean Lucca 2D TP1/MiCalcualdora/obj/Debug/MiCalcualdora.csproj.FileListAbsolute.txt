@@ -1,0 +1,13 @@
+C:\Users\jean\source\repos\Simala Jean Lucca 2D TP1\MiCalcualdora\obj\Debug\MiCalcualdora.csprojAssemblyReference.cache
+C:\Users\jean\source\repos\Simala Jean Lucca 2D TP1\MiCalcualdora\obj\Debug\MiCalcualdora.FormCalculadora.resources
+C:\Users\jean\source\repos\Simala Jean Lucca 2D TP1\MiCalcualdora\obj\Debug\MiCalcualdora.Properties.Resources.resources
+C:\Users\jean\source\repos\Simala Jean Lucca 2D TP1\MiCalcualdora\obj\Debug\MiCalcualdora.csproj.GenerateResource.cache
+C:\Users\jean\source\repos\Simala Jean Lucca 2D TP1\MiCalcualdora\obj\Debug\MiCalcualdora.csproj.CoreCompileInputs.cache
+C:\Users\jean\source\repos\Simala Jean Lucca 2D TP1\MiCalcualdora\bin\Debug\MiCalcualdora.exe.config
+C:\Users\jean\source\repos\Simala Jean Lucca 2D TP1\MiCalcualdora\bin\Debug\MiCalcualdora.exe
+C:\Users\jean\source\repos\Simala Jean Lucca 2D TP1\MiCalcualdora\bin\Debug\MiCalcualdora.pdb
+C:\Users\jean\source\repos\Simala Jean Lucca 2D TP1\MiCalcualdora\bin\Debug\Entidades.dll
+C:\Users\jean\source\repos\Simala Jean Lucca 2D TP1\MiCalcualdora\bin\Debug\Entidades.pdb
+C:\Users\jean\source\repos\Simala Jean Lucca 2D TP1\MiCalcualdora\obj\Debug\MiCalcualdora.csproj.CopyComplete
+C:\Users\jean\source\repos\Simala Jean Lucca 2D TP1\MiCalcualdora\obj\Debug\MiCalcualdora.exe
+C:\Users\jean\source\repos\Simala Jean Lucca 2D TP1\MiCalcualdora\obj\Debug\MiCalcualdora.pdb
