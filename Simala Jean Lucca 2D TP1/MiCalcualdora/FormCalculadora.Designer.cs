@@ -149,7 +149,7 @@
             this.Name = "FormCalculadora";
             this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Show;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Calculadora de Jean Lucca  Simala 2D";
+            this.Text = "Calculadora de Jean Lucca  Simala del curso 2D";
             this.ResumeLayout(false);
             this.PerformLayout();
 

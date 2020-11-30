@@ -11,3 +11,16 @@ C:\Users\jean\source\repos\Simala Jean Lucca 2D TP1\MiCalcualdora\bin\Debug\Enti
 C:\Users\jean\source\repos\Simala Jean Lucca 2D TP1\MiCalcualdora\obj\Debug\MiCalcualdora.csproj.CopyComplete
 C:\Users\jean\source\repos\Simala Jean Lucca 2D TP1\MiCalcualdora\obj\Debug\MiCalcualdora.exe
 C:\Users\jean\source\repos\Simala Jean Lucca 2D TP1\MiCalcualdora\obj\Debug\MiCalcualdora.pdb
+C:\Users\jean\Desktop\Mis tps de labo 2 segudno intetno\TP_LABORATORIO_2\Simala Jean Lucca 2D TP1\MiCalcualdora\bin\Debug\MiCalcualdora.exe.config
+C:\Users\jean\Desktop\Mis tps de labo 2 segudno intetno\TP_LABORATORIO_2\Simala Jean Lucca 2D TP1\MiCalcualdora\bin\Debug\MiCalcualdora.exe
+C:\Users\jean\Desktop\Mis tps de labo 2 segudno intetno\TP_LABORATORIO_2\Simala Jean Lucca 2D TP1\MiCalcualdora\bin\Debug\MiCalcualdora.pdb
+C:\Users\jean\Desktop\Mis tps de labo 2 segudno intetno\TP_LABORATORIO_2\Simala Jean Lucca 2D TP1\MiCalcualdora\bin\Debug\Entidades.dll
+C:\Users\jean\Desktop\Mis tps de labo 2 segudno intetno\TP_LABORATORIO_2\Simala Jean Lucca 2D TP1\MiCalcualdora\bin\Debug\Entidades.pdb
+C:\Users\jean\Desktop\Mis tps de labo 2 segudno intetno\TP_LABORATORIO_2\Simala Jean Lucca 2D TP1\MiCalcualdora\obj\Debug\MiCalcualdora.csprojAssemblyReference.cache
+C:\Users\jean\Desktop\Mis tps de labo 2 segudno intetno\TP_LABORATORIO_2\Simala Jean Lucca 2D TP1\MiCalcualdora\obj\Debug\MiCalcualdora.FormCalculadora.resources
+C:\Users\jean\Desktop\Mis tps de labo 2 segudno intetno\TP_LABORATORIO_2\Simala Jean Lucca 2D TP1\MiCalcualdora\obj\Debug\MiCalcualdora.Properties.Resources.resources
+C:\Users\jean\Desktop\Mis tps de labo 2 segudno intetno\TP_LABORATORIO_2\Simala Jean Lucca 2D TP1\MiCalcualdora\obj\Debug\MiCalcualdora.csproj.GenerateResource.cache
+C:\Users\jean\Desktop\Mis tps de labo 2 segudno intetno\TP_LABORATORIO_2\Simala Jean Lucca 2D TP1\MiCalcualdora\obj\Debug\MiCalcualdora.csproj.CoreCompileInputs.cache
+C:\Users\jean\Desktop\Mis tps de labo 2 segudno intetno\TP_LABORATORIO_2\Simala Jean Lucca 2D TP1\MiCalcualdora\obj\Debug\MiCalcualdora.csproj.CopyComplete
+C:\Users\jean\Desktop\Mis tps de labo 2 segudno intetno\TP_LABORATORIO_2\Simala Jean Lucca 2D TP1\MiCalcualdora\obj\Debug\MiCalcualdora.exe
+C:\Users\jean\Desktop\Mis tps de labo 2 segudno intetno\TP_LABORATORIO_2\Simala Jean Lucca 2D TP1\MiCalcualdora\obj\Debug\MiCalcualdora.pdb
