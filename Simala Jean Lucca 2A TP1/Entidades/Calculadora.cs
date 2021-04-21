@@ -19,25 +19,28 @@ namespace Entidades
         {
             double resultado = 0;
             string rta;
-
-            rta = ValidarOperador(Convert.ToChar(operador));
-
-            switch (rta)
+            if(operador !="")
             {
-                case "+":
-                    resultado = num1 + num2;
-                    break;
-                case "-":
-                    resultado = num1 - num2;
-                    break;
-                case "*":
-                    resultado = num1 * num2;
-                    break;
-                case "/":
-                    resultado = num1 / num2;
-                    break;
+                rta = ValidarOperador(Convert.ToChar(operador));
 
+                switch (rta)
+                {
+                    case "+":
+                        resultado = num1 + num2;
+                        break;
+                    case "-":
+                        resultado = num1 - num2;
+                        break;
+                    case "*":
+                        resultado = num1 * num2;
+                        break;
+                    case "/":
+                        resultado = num1 / num2;
+                        break;
+
+                }
             }
+           
             return resultado;
         }
         /// <summary>
